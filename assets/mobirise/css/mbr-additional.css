@@ -1804,6 +1804,24 @@ body {
 .cid-qQtW6CgWnW .mbr-author-desc {
   color: #232;
 }
+.cid-qQyFiJVE3R {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+@media (min-width: 992px) {
+  .cid-qQyFiJVE3R .mbr-figure {
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 992px) {
+  .cid-qQyFiJVE3R .mbr-figure {
+    padding-bottom: 1rem;
+  }
+}
+.cid-qQyFiJVE3R .mbr-text {
+  color: #767676;
+}
 .cid-qQtVUxxYvd {
   padding-top: 0px;
   padding-bottom: 0px;
